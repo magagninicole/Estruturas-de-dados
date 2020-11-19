@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1589977223 source:c:\users\nicol\documents\estruturas\m2_mariajulia_nicolemagagnin\main.cpp
+	"FilaEstadio_TAD.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+
+1589405240 c:\users\nicol\documents\estruturas\m2_mariajulia_nicolemagagnin\filaestadio_tad.h
+	<iostream>
+
+1590061641 source:c:\users\nicol\documents\estruturas\m2_mariajulia_nicole_fila\m2_mariajulia_nicolemagagnin\main.cpp
+	"FilaEstadio_TAD.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+
+1589405240 c:\users\nicol\documents\estruturas\m2_mariajulia_nicole_fila\m2_mariajulia_nicolemagagnin\filaestadio_tad.h
+	<iostream>
+

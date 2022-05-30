@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1593784281 source:c:\users\nicol\documents\estruturas\m3_mariajulia_nicole\main.cpp
+	"tad_arvore_expressao.h"
+	"tad_arvore_binaria.h"
+	<locale.h>
+	<iostream>
+
+1593783942 c:\users\nicol\documents\estruturas\m3_mariajulia_nicole\tad_arvore_expressao.h
+	"tad_arvore_binaria.h"
+	<iostream>
+
+1593784165 c:\users\nicol\documents\estruturas\m3_mariajulia_nicole\tad_arvore_binaria.h
+	<iostream>
+
+1594209410 source:c:\users\nicol\documents\estruturas\m3_mariajulia_nicole_arvoreexpressao\main.cpp
+	"tad_arvore_expressao.h"
+	"tad_arvore_binaria.h"
+
+1594209548 c:\users\nicol\documents\estruturas\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_expressao.h
+	"tad_arvore_binaria.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1594209593 c:\users\nicol\documents\estruturas\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_binaria.h
+	<iostream>
+
+1593911822 source:c:\users\lucas\desktop\m3_mariajulia_nicole_arvoreexpressao\main.cpp
+	"tad_arvore_expressao.h"
+	"tad_arvore_binaria.h"
+
+1593912410 c:\users\lucas\desktop\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_expressao.h
+	"tad_arvore_binaria.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1593784166 c:\users\lucas\desktop\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_binaria.h
+	<iostream>
+
+1593963245 source:c:\users\55479\onedrive\Área de trabalho\m3_mariajulia_nicole_arvoreexpressao\main.cpp
+	"tad_arvore_expressao.h"
+	"tad_arvore_binaria.h"
+
+1593953362 c:\users\55479\onedrive\Área de trabalho\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_expressao.h
+	"tad_arvore_binaria.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1593953361 c:\users\55479\onedrive\Área de trabalho\m3_mariajulia_nicole_arvoreexpressao\tad_arvore_binaria.h
+	<iostream>
+
